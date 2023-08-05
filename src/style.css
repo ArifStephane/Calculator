@@ -1,0 +1,12 @@
+@import url("./fonts/fonts.css");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "MTN Brighter Sans", sans-serif;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+ 
